@@ -25,5 +25,5 @@ let data = [
     },
 ]
 
-let name = "Adil";
+
 export  default data;
