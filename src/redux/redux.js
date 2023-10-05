@@ -25,6 +25,6 @@ let data = [
     },
 ]
 
-let name ="Adil Token"
+
 
 export  default data;
